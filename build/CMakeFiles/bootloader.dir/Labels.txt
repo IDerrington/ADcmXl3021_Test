@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/esp/ADcmXL3021/lcd/build/CMakeFiles/bootloader
+C:/esp/ADcmXL3021/lcd/build/CMakeFiles/bootloader.rule
+C:/esp/ADcmXL3021/lcd/build/CMakeFiles/bootloader-complete.rule
+C:/esp/ADcmXL3021/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/esp/ADcmXL3021/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/esp/ADcmXL3021/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/esp/ADcmXL3021/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/esp/ADcmXL3021/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/esp/ADcmXL3021/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/esp/ADcmXL3021/lcd/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
